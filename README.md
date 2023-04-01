@@ -30,3 +30,5 @@ In-built latex compiler is available with miktex. Please see the documentation o
     b. https://www.learnlatex.org/en/
 
 7. For any further queries, please feel free to e-mail at sarun@iitism.ac.in
+# About
+Author: Sarun Pallian Murikkoli (c) 2023
