@@ -1,4 +1,4 @@
-# LaTeX Report - Template
+# LaTeX Report - Templates
 The latex document provides the fully functional template for typesetting B. Tech. Engineering Physics Project dissertation in the pdf format.  
 
 # Pre-requisite
